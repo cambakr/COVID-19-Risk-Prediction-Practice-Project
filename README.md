@@ -1,5 +1,5 @@
 # COVID-19-Risk-Prediction-Practice-Project
-Project from Spring 2020 in my object-oriented programming and data structures course. The project objective was to explore applications of binary trees. The data used within is not usable for any real world appliation in its current form due to omitting many factors to limit the size of the project. Reflecting on the project, I acknowledge that there are likely better ways to approach both applying a binary tree and solving the problem used as an example(covid-19 risk prediction).
+Project from Spring 2020 in my object-oriented programming and data structures course. The project objective was to explore applications of binary trees. The data used within is not usable for any real world applications in its current form due to omitting many factors to limit the size of the project. Reflecting on the project, I acknowledge that there are likely better ways to approach both applying a binary tree and solving the problem used as an example(covid-19 risk prediction).
 
 
 
